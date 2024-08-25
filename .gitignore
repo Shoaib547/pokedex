@@ -1,5 +1,4 @@
 /venv
-dashboard_wallpaper.png
-pokedex_logo.png
-pokemon_wallpaper.jpg
+/themes_pokedex
+pokedex_imageDB.py
 requirements.txt
