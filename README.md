@@ -10,6 +10,9 @@ The Pokedex is an iconic tool from the Pokémon series, providing detailed infor
 Pokémon Database Website: Used to retrieve images for each Pokémon.
 Kaggle Dataset: Provided comprehensive information on Pokémon, including stats, types, abilities, and more.
 
+## Power BI Dashboard
+![Dashboard](Pokedex_dashboard.png)
+
 ## Steps Followed
 The project was completed through the following steps:
 
@@ -36,8 +39,8 @@ The Power BI Pokedex includes the following features:
 - Interactive Search and Filter: Users can interactively search for Pokémon by name, type, or other criteria.
 - Dynamic Visuals: Images of Pokémon are displayed dynamically as users explore the Pokedex, enhancing the user experience.
 
-### Conclusion
+## Conclusion
 This Pokedex project demonstrates the power of Power BI in creating visually engaging and interactive tools. By combining data from various sources and replicating the Pokedex interface, I was able to create a functional and aesthetically pleasing dashboard similar to the original Pokedex.
 
-### Feedback
+## Feedback
 Your feedback is important! If you have any suggestions or comments on this Pokedex project, please feel free to share them. Let's connect and discuss how to improve and expand this project.
